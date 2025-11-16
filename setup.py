@@ -11,7 +11,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/AnubisSystems/AnubisProductCore.git",
     install_requires=[
-        "git+https://github.com/AnubisSystems/AnubisCore.git"
+        "AnubisCore @ git+https://github.com/AnubisSystems/AnubisCore.git"
         # Lista de dependencias, ej:
         # "requests>=2.25.1",
     ],
