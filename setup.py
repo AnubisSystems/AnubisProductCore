@@ -9,9 +9,9 @@ setup(
     description="Productos abstractos para utilizar con adaptadores de ecommerce",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/tu-usuario/mi-paquete",
+    url="https://github.com/AnubisSystems/AnubisProductCore.git",
     install_requires=[
-        "hexarch_core @ git+https://github.com/AnubisSystems/AnubisCore.git"
+        "git+https://github.com/AnubisSystems/AnubisCore.git"
         # Lista de dependencias, ej:
         # "requests>=2.25.1",
     ],
